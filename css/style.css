@@ -514,6 +514,7 @@ body img {
 
 .img-container:hover {
     cursor: pointer;
+    transform: translateY(0);
 }
 
 .img-container img {
