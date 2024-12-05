@@ -582,7 +582,9 @@ body img {
 
 }
 
-
+p {
+    margin: 0;
+}
 
 .footer {
     background-color: #2e2f42;
