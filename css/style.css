@@ -598,7 +598,7 @@ body img {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #ffffff;
-    margin-bottom:16px;
+    margin-bottom:16px !important;
 
 
 }
@@ -617,7 +617,7 @@ body img {
     color: #f4f4fd;
     letter-spacing: 0.02em;
     max-width: 264px;
-    margin-bottom:16px;
+    margin-bottom: 16px !important;
 }
 
 .span-footer {
