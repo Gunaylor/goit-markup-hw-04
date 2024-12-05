@@ -132,6 +132,12 @@ header {
     left: 0;
 }
 
+
+a {
+    color: #404bbf;
+    text-decoration: none;
+}
+
 /* Section One */
 .section-one {
     background-color: #2e2f42;
