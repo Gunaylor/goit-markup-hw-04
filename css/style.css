@@ -562,7 +562,7 @@ body img {
 }
 .four-li:hover .overlay-p {
     transform: translateY(0%);
-    transform: translateY(100%);
+    
 }
 
 
