@@ -224,6 +224,11 @@ a {
     margin-bottom: 8px;
 }
 
+svg {
+    width: 64px;
+    height: 64px;
+}
+
 /* Section Three */
 .section-three {
     background-color: #f4f4fd;
